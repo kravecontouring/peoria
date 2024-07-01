@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Krave Body Contouring",
-    "currentPage": "peoria.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -154,7 +154,7 @@
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
     "mbrsiteDomain": "coiwusphez",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "usedWebp": false
   },
   "pages": {
@@ -7328,7 +7328,7 @@
         }
       ]
     },
-    "peoria.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Krave Body Contouring",
