@@ -178,7 +178,7 @@
     "gdpr": false,
     "screenshot": "screenshot.png",
     "cookiesAlert": false,
-    "mbrsiteDomain": "v7xj4wmrtm",
+    "mbrsiteDomain": "c6wgilxssj",
     "publishChangesOnly": true,
     "usedWebp": true
   },
@@ -7825,7 +7825,8 @@
               "color": "#767676"
             },
             "H3": {
-              "color": "#767676"
+              "color": "#767676",
+              "text-align": "right"
             }
           },
           "_name": "info2",
